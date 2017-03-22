@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">小写数字转大写</string>
+    <string name="action_settings">Settings</string>
+    <string name="rmb_small">输入人民币小写</string>
+    <string name="put_number">请输入阿拉伯数字</string>
+    <string name="set_">转换</string>
+    <string name="fin_">运行结果</string>
+
+</resources>
